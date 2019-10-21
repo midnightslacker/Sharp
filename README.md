@@ -1,8 +1,6 @@
 # Sharp
 Curated list of C# Offensive Tools
 
-* [GitHub](http://github.com)
-
 * [Seatbelt](https://github.com/GhostPack/Seatbelt)
 
 * [SharpUp](https://github.com/GhostPack/SharpUp)
