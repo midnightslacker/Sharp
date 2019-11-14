@@ -6,11 +6,9 @@
 
 * [Reconerator](https://github.com/stufus/reconerator)
   * C# Targeted Attack Reconnissance Tools
-* [Rubeus](https://github.com/GhostPack/Rubeus)
-  * Rubeus is a C# toolset for raw Kerberos interaction and abuses.
 
-* [Seatbelt](https://github.com/GhostPack/Seatbelt)
-  * Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
+* [GhostPack](https://github.com/GhostPack)
+  * C# Security Toolsets: SafetyKatz, Rubeus, SharpDPAPI, SharpUp, SharpWMI, Seatbelt, SharpDump, SharpRoast 
 
 * [SharpHound](https://github.com/BloodHoundAD/SharpHound)
   * The BloodHound C# Ingestor
@@ -23,9 +21,6 @@
 
 * [SharpSploit](https://github.com/cobbr/SharpSploit)
   * SharpSploit is a .NET post-exploitation library written in C#
-
-* [SharpUp](https://github.com/GhostPack/SharpUp)
-  * SharpUp is a C# port of various PowerUp functionality
 
 * [SharpView](https://github.com/tevora-threat/SharpView)
   * C# implementation of harmj0y's PowerView
