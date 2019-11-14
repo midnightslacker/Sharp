@@ -8,7 +8,14 @@
   * C# Targeted Attack Reconnissance Tools
 
 * [GhostPack](https://github.com/GhostPack)
-  * C# Security Toolsets: SafetyKatz, Rubeus, SharpDPAPI, SharpUp, SharpWMI, Seatbelt, SharpDump, SharpRoast 
+   * [SafetyKatz](https://github.com/GhostPack/SafetyKatz) - C# Loader for Mimikatz
+   * [Rubeus](https://github.com/GhostPack/Rubeus) - C# toolset for raw Kerberos interaction and abuses
+   * [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - C# port of some Mimikatz DPAPI functionality 
+   * [SharpWMI](https://github.com/GhostPack/SharpWMI) - C# implementation of various WMI functionality 
+   * [SharpUp](https://github.com/GhostPack/SharpUp) - C# port of various PowerUp functionality
+   * [Seatbelt](https://github.com/GhostPack/Seatbelt) - C# project that performs a number of security oriented host-survey "safety checks"
+   * [SharpDump](https://github.com/GhostPack/SharpDump) - C# port of PowerSploit's Out-Minidump.ps1 functionality
+   * [SharpRoast](https://github.com/GhostPack/SharpRoast) - C# port of various PowerView's Kerberoasting functionality
 
 * [SharpHound](https://github.com/BloodHoundAD/SharpHound)
   * The BloodHound C# Ingestor
