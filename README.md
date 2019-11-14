@@ -6,6 +6,8 @@
 
 * [Reconerator](https://github.com/stufus/reconerator)
   * C# Targeted Attack Reconnissance Tools
+* [Rubeus](https://github.com/GhostPack/Rubeus)
+  * Rubeus is a C# toolset for raw Kerberos interaction and abuses.
 
 * [Seatbelt](https://github.com/GhostPack/Seatbelt)
   * Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
