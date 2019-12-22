@@ -5,7 +5,7 @@
   * Open-Source Remote Administration Tool For Windows C# (RAT)
 
 * [Convenant](https://github.com/cobbr/Covenant)
-  *  .NET command and control framework that serve as a collaborative command and control platform for red teamers.
+  *  .NET c2 framework that serves as a collaborative command and control platform for red teamers.
 
 * [GhostPack](https://github.com/GhostPack)
    * [SafetyKatz](https://github.com/GhostPack/SafetyKatz) - C# Loader for Mimikatz
