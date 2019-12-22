@@ -4,8 +4,8 @@
 * [AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
   * Open-Source Remote Administration Tool For Windows C# (RAT)
 
-* [Reconerator](https://github.com/stufus/reconerator)
-  * C# Targeted Attack Reconnissance Tools
+* [Convenant](https://github.com/cobbr/Covenant)
+  *  .NET command and control framework that serve as a collaborative command and control platform for red teamers.
 
 * [GhostPack](https://github.com/GhostPack)
    * [SafetyKatz](https://github.com/GhostPack/SafetyKatz) - C# Loader for Mimikatz
@@ -16,6 +16,9 @@
    * [Seatbelt](https://github.com/GhostPack/Seatbelt) - C# project that performs a number of security oriented host-survey "safety checks"
    * [SharpDump](https://github.com/GhostPack/SharpDump) - C# port of PowerSploit's Out-Minidump.ps1 functionality
    * [SharpRoast](https://github.com/GhostPack/SharpRoast) - C# port of various PowerView's Kerberoasting functionality
+
+* [Reconerator](https://github.com/stufus/reconerator)
+  * C# Targeted Attack Reconnissance Tools
 
 * [SharpHound](https://github.com/BloodHoundAD/SharpHound)
   * The BloodHound C# Ingestor
