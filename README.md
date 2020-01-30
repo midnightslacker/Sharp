@@ -25,6 +25,9 @@
 
 * [SharPersist](https://github.com/fireeye/SharPersist)
   * Windows persistence toolkit written in C#
+  
+* [SharpRDP](https://github.com/0xthirteen/SharpRDP)
+  * Remote Desktop Protocol .NET Console Application for Authenticated Command Execution
 
 * [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
   * Payload Generation Framework
